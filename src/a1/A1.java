@@ -1,7 +1,7 @@
 /*
  * Masimba Banda c3059877 COMP2240 Assignment 1 main class
  * To compare four scheduling algorithms FCFS, RR, FB and NRR
- * Created 26 August 2019. Last modified 6 September 2019
+ * Created 26 August 2019. Last modified 27 June September 2020
  */
 package a1;
 
